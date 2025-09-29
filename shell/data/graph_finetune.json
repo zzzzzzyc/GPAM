@@ -1,0 +1,16 @@
+{
+  "pheme": {
+    "root": "path/shell/data/",
+    "annotation": "path/shell/data/pheme/pheme_train.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 1635
+  },
+  "weibo": {
+    "root": "path/shell/data/",
+    "annotation": "path/data/weibo/weibo_train.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 1188
+  }
+}
